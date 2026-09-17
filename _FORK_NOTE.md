@@ -1,0 +1,1 @@
+> **Status: unused.** BSSUnfold.jl pins the upstream [JuliaGPU/GPUCompiler.jl](https://github.com/JuliaGPU/GPUCompiler.jl) tag `v0.17.3` directly (the tag declares `julia = "1.6"`, while the stale registry metadata for 0.17.3 says `1.6.0-1.9`). This fork can be deleted.
